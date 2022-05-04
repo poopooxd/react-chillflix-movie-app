@@ -27,7 +27,7 @@ function App() {
         <Route path="/tv-shows" element={<TvShowsPage watchLater={watchLater} setWatchLater={setWatchLater}/>}/>
         
         <Route path="/signup" element={<SignUpPage user= {user} pass = {pass} setUser={setUser} setPass={setPass}/>}/>
-        <Route path="*" exact={true} element={<ErrorPage isAuth={isAuth} setIsAuth={setIsAuth}/>}/>
+        <Route path="*" element={<ErrorPage isAuth={isAuth} setIsAuth={setIsAuth}/>}/>
         
       </Routes>
 
