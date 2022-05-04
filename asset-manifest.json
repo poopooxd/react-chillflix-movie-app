@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-chillflix-movie-app/static/css/main.1c7b6c60.css",
+    "main.css": "/react-chillflix-movie-app/static/css/main.991172cd.css",
     "main.js": "/react-chillflix-movie-app/static/js/main.08efb6de.js",
     "static/media/Wallpaper.png": "/react-chillflix-movie-app/static/media/Wallpaper.f73ca8159d2d4090e392.png",
     "static/media/chillflix.svg": "/react-chillflix-movie-app/static/media/chillflix.3d84e705b268fadb787dab96ad709681.svg",
     "index.html": "/react-chillflix-movie-app/index.html",
-    "main.1c7b6c60.css.map": "/react-chillflix-movie-app/static/css/main.1c7b6c60.css.map",
+    "main.991172cd.css.map": "/react-chillflix-movie-app/static/css/main.991172cd.css.map",
     "main.08efb6de.js.map": "/react-chillflix-movie-app/static/js/main.08efb6de.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c7b6c60.css",
+    "static/css/main.991172cd.css",
     "static/js/main.08efb6de.js"
   ]
 }
